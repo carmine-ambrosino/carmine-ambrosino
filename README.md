@@ -7,5 +7,5 @@ I'm an enthusiast of cybersecurity and I love learning new knowledge, methodolog
 - Git
 - Postman
 ## 📫 Reach me
-Feel free to reach me on [Linkedin](https://www.linkedin.com//in/carmine-ambrosino).
+Feel free to reach me on [LinkedIn](https://www.linkedin.com//in/carmine-ambrosino).
 Let's connect, learn, and create together!
