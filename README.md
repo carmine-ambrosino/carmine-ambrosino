@@ -1,5 +1,5 @@
 # Hi, I'm Carmine Ambrosino👋
-I'm an enthusiast of cybersecurity and I love learning new knowledge, methodologies and technologies that can help solve problems.
+I'm an enthusiast of cybersecurity, cloud computing and I love learning new knowledge, methodologies and technologies that can help solve problems.
 
 ## 🚀 Tech Stack
 - Docker
